@@ -1,0 +1,6 @@
+{
+  "name": "Lik",
+  "description": "Private 1-to-1 messaging app with real-time chat, media sharing, and voice/video calling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
